@@ -1,1 +1,1 @@
-This is a file that describe the GitHub project as being a practice project for learning Git and GitHub.
+This GitHub project is a project to allow us to understand more about Git and GitHub, in terms of how it works such as creating a repository, sharing files with others, collaborating with others, etc. With this we can understand how to pull and push changes. This will allow us to work along with other people and have our previous work and know when people change our stuff that should not be changed :D
