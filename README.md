@@ -1,0 +1,1 @@
+This is a file that describe the GitHub project as being a practice project for learning Git and GitHub.
